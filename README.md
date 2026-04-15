@@ -11,8 +11,8 @@ Project in the context of Data Analysis self-learning (source: YouTube)
 
 
 ### &#127919; Project's steps
-* Retrieve and prepare data on Excel.
-* Import cleaned dataset on Google's datawarehouse BigQuery.
-* Write necessary SQL queries and connect results to a dashboarding tool (Looker Studio in this case).
+* Retrieve and prepare data on (`Excel`).
+* Import cleaned dataset on Google's datawarehouse (`BigQuery`).
+* Write necessary SQL queries and connect results to a dashboarding tool (`Looker Studio`).
 * Build a dashboard leading to relevant decisions concerning project's subject.
 
