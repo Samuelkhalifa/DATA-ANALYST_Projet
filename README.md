@@ -9,6 +9,13 @@ Project in the context of Data Analysis self-learning (source: YouTube)
 <br>
 
 ## [Subject : Determinate nearest and cheapest gaz stations inside a pre-defined perimeter]
+
+<br>
+
+## &#x1F4DD; Project graph
+
+<br>
+
 <p align="center"> 
   <img width="700" height="178" alt="Capture d’écran 2026-04-16 à 12 59 33" 
   src="https://github.com/user-attachments/assets/65524b0c-532c-42ff-83d2-d36163776298" />
